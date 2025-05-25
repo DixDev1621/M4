@@ -28,8 +28,8 @@ int main() {
 
 ## OUTPUT
 
-Original Number: 44
-Number after 3 left shifts: 352
+![image](https://github.com/user-attachments/assets/998f23aa-e482-4c3e-b97f-7464acef9e43)
+
 
 
 
@@ -82,9 +82,8 @@ int main() {
 }
 
 ## OUTPUT
-Enter first number: 10
-Enter second number: 10
-The numbers are equal.
+![image](https://github.com/user-attachments/assets/f243b430-e34f-41f1-a49d-694035f98a79)
+
    
 ## RESULT
 
@@ -124,8 +123,8 @@ int main() {
 }
 
 ## OUTPUT
-Enter a string: Hello World!
-String in lowercase: hello world!
+![image](https://github.com/user-attachments/assets/2477def4-89fa-45c4-a51d-7389835b5bfb)
+
 
 
 
@@ -172,8 +171,8 @@ int main() {
 }
 
 ## OUTPUT
-Enter a string: Hello, how are you today?
-Total number of words: 5
+![image](https://github.com/user-attachments/assets/d57f0a73-a539-4bc7-9b32-3f8fcc893b0d)
+
 
 
 
@@ -242,9 +241,8 @@ int main() {
 
 ## OUTPUT
  
-Enter the first string: hello
-Enter the second string: hello
-The strings are equal.
+![image](https://github.com/user-attachments/assets/242d8692-38de-4757-aa40-822dfe00b9a5)
+
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
